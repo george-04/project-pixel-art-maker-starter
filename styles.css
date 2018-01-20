@@ -1,15 +1,18 @@
 body {
     text-align: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 h1 {
     font-family: Monoton;
     font-size: 70px;
     margin: 0.2em;
+    color:  #dc7409;
 }
 
 h2 {
     margin: 1em 0 0.25em;
+    color:  #dc7409;
 }
 
 h2:first-of-type {
